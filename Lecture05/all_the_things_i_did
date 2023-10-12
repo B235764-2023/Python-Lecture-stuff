@@ -1,0 +1,41 @@
+commit fa6febf87f903ceb0a1ae68cc05f360682b03849
+Author: B235764-2023 <hithere@something.com>
+Date:   Thu Oct 12 17:56:17 2023 +0100
+
+    Final output file
+
+commit 699137af1b46df2ab96c90acace5bba3fbaf27b6
+Author: B235764-2023 <hithere@something.com>
+Date:   Thu Oct 12 17:55:19 2023 +0100
+
+    The final script. Works like a charm
+
+commit 0e084bce78cf435c1068c65db2a62fbaf6f6d3fd
+Author: B235764-2023 <hithere@something.com>
+Date:   Thu Oct 12 17:41:55 2023 +0100
+
+    final script added
+
+commit 90096f6d85a0a707816ba0c5ff13578142c4c152
+Author: B235764-2023 <hithere@something.com>
+Date:   Thu Oct 12 17:38:31 2023 +0100
+
+    THird script
+
+commit 01ad6d0f7b8c853703ffc524f536d13ae6dad7c7
+Author: B235764-2023 <hithere@something.com>
+Date:   Thu Oct 12 17:34:45 2023 +0100
+
+    Secondscript for the exampledata files
+
+commit 003813c7257ccda2320e5bb2929d38c95c2e625d
+Author: B235764-2023 <hithere@something.com>
+Date:   Thu Oct 12 17:28:11 2023 +0100
+
+    preliminary script
+
+commit 21db7ad9c5776cc56e3947da3549d3e920a7f4bf
+Author: B235764-2023 <hithere@something.com>
+Date:   Thu Oct 12 17:19:46 2023 +0100
+
+    Added examplepeopledat.tsv file from lecture03
